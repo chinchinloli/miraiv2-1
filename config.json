@@ -6,8 +6,8 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "cặc",
+    "PREFIX": "/",
     "ADMINBOT": "",
     "DATABASE": {
         "sqlite": {
